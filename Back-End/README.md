@@ -6,7 +6,7 @@
 2. **Create a New Branch**: Create a new branch with the name `firstname-lastname` to work on your project.
 3. **Node.js Project**: Set up a new Node.js project for the backend.
 4. **Install Dependencies**: Install the required dependencies.
-5. **Create database**: Create a new database for the project using MongoDB Atlas.
+5. **Create database**: Create a new database for the project using SQL.
 
 ## Instructions
 
@@ -16,7 +16,7 @@ Develop the backend for the E-commerce application to handle product creation, p
 
 1. **Product Data Model**:
 
-   - Create a product schema using Mongoose for storing product data.
+   - Create a product schema using SQL for storing product data.
    - The schema should include fields for title, category, description, price and supplier.
    - All fields should be required.
    - Set timestamps for the schema.
