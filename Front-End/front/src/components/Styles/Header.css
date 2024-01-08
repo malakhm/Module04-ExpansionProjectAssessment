@@ -1,0 +1,47 @@
+.Header-Main-Component{
+    display: flex;
+    width: 90vw;
+    height: 150px;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.Header-Main-Component img{
+    width:330px;
+    height: 330px;
+}
+
+.logoLogo{
+    width: 40px;
+    height: 40px;
+}
+.Header-Main-Input{
+    justify-self: center;   
+    align-items: center;
+    margin-right: 100px;
+    width: 250px;
+    height: 30px;
+    padding-left: 20px;
+    border-radius:10px ;
+    border: 0.5px rgba(0, 0, 0, 0.282) solid;
+}
+
+.Menu-Main-Items{
+    list-style-type: none;
+    display: flex;
+    gap: 65px;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+.header-list-main{
+    display:flex;
+    gap: 50px;
+}
+.header-list-main li{
+    list-style-type: none;
+    font-size: 22px;
+    font-weight: bold;
+
+}
